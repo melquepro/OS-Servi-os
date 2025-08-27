@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ordem de Serviço</string>
+    <string name="nova_ordem">Nova Ordem</string>
+    <string name="editar_ordem">Editar Ordem</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cliente">Cliente</string>
+    <string name="servico">Serviço</string>
+    <string name="status">Status</string>
+    <string name="prioridade">Prioridade</string>
+    <string name="valor_total">Valor Total</string>
+    <string name="data_abertura">Data de Abertura</string>
+    <string name="data_prevista">Data Prevista</string>
+    <string name="descricao_problema">Descrição do Problema</string>
+    <string name="observacoes">Observações</string>
+    <string name="tecnico_responsavel">Técnico Responsável</string>
+</resources>
